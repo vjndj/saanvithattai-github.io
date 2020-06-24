@@ -1,3 +1,16 @@
 p{
     color: lightblue 
 }
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.blm fist{
+    float: left
+
+}
+.nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
